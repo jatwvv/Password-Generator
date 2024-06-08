@@ -123,3 +123,6 @@ body {
 .container button:active {
     background-color: #006737;
 }
+.save {
+    margin-top: 20px;
+}
